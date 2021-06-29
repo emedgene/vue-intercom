@@ -11,7 +11,7 @@
     "lint:fix": "vue-cli-service lint --fix"
   },
   "dependencies": {
-    "core-js": "^3.6.5",
+    "core-js": "^3.14.0",
     "prismjs": "^1.19.0",
     "register-service-worker": "^1.7.1",
     "vue": "^2.6.11",
